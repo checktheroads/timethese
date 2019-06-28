@@ -4,7 +4,7 @@ timethese is a blatantly lazy abstration of the standard library `timeit.timeit(
 ## Installation
 
 ```console
-$ pip3 install git+github.com/checktheroads/timethese.git
+$ pip3 install git+https://github.com/checktheroads/timethese.git
 ```
 
 ## Usage
